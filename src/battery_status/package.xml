@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>battery_status</name>
-  <version>0.0.0</version>
-  <description>The battery_status package</description>
+  <version>0.0.1</version>
+  <description>The battery_status package. Creates a publisher that posts battery status to the 'BatteryStatus' topic.</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="harryob@todo.todo">harryob</maintainer>
+  <maintainer email="harry2864@gmail.com">Harry O'Brien</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
   <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
-  <license>TODO</license>
+  <license>MIT</license>
 
 
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
@@ -25,7 +25,7 @@
   <!-- Author tags are optional, multiple are allowed, one per tag -->
   <!-- Authors do not have to be maintainers, but could be -->
   <!-- Example: -->
-  <!-- <author email="jane.doe@example.com">Jane Doe</author> -->
+  <author email="harry2864@gmail.com">Harry O'Brien</author>
 
 
   <!-- The *depend tags are used to specify dependencies -->
