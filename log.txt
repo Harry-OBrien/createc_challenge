@@ -1,3 +1,21 @@
 16:50:40: Initialise repo
-16:54:32: Created ROS framework
-16:54:47: Add battery package
+16:54:32: Create ROS framework
+16:54:47: Add battery package in C++
+16:55:03: Written publisher outline, looking up code to access power info
+17:01:42: Stopping for the day
+
+New day
+11:09:15: Figuring out low level C++ code to get power info
+12:11:08: Bailing on C++, creating python version
+12:11:52: Downloaded a python package called Power. Reading docs
+12:19:26: Got basic publisher working
+12:23:57: implement rough power observer code
+12:29:13: implement 'on power source change'
+12:34:13: Testing messages
+13:38:56: Spending WAYYY too long trying to get this power package to work
+15:43:57: Finish publisher using mock data
+15:44:02: Creating bag file
+15:48:48: Saving work, writing docs etc.
+
+In summary, the ROS stuff is intuitive and takes 10 minutes at most to get things set up.
+Interacting with Apple hardware HOWEVER. Absolute pain.
